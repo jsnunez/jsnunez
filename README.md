@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I´m currently studyng in campusland<br>👯 I'm electronic engineer<br>🤝 i like backend development<br>
+🔭 I´m currently studyng in campusland<br>👯 I'm electronic engineer<br>🤝 I like backend development<br>
 
 
 # 💻 Tech Stack:
